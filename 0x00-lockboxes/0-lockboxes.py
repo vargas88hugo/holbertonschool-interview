@@ -2,6 +2,9 @@
 
 
 def canUnlockAll(boxes):
+    '''
+        Method that validate if all boxes can be opened
+    '''
     if not boxes:
         return False
     if len(boxes) == 0:
