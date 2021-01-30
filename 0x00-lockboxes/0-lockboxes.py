@@ -1,4 +1,9 @@
 #!/usr/bin/python3
+'''
+This is a module to call canUnlockAll function
+'''
+
+
 def canUnlockAll(boxes):
     '''
     Method that determines if all the boxes can be opened.
